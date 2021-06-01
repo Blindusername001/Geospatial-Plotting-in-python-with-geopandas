@@ -3522,7 +3522,7 @@ geo_combined_pop.plot(column='1990',
 
 
     
-![png](output_47_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_47_0.png)
     
 
 
@@ -3552,7 +3552,7 @@ plt.show()
 
 
     
-![png](output_49_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_49_0.png)
     
 
 
@@ -3581,7 +3581,7 @@ geo_combined_pop.plot(column='2010',
 
 
     
-![png](output_51_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_51_0.png)
     
 
 
@@ -3621,7 +3621,7 @@ for x, y, cntry, val in zip(grt_290_mil_df.rep_coords.x, grt_290_mil_df.rep_coor
 
 
     
-![png](output_54_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_54_0.png)
     
 
 
@@ -3676,7 +3676,7 @@ less_69_mil_df.plot(column='2010',
 
 
     
-![png](output_59_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_59_0.png)
     
 
 
@@ -3696,7 +3696,7 @@ plt.show()
 
 
     
-![png](output_61_0.png)
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_61_0.png)
     
 
 
@@ -3775,8 +3775,9 @@ plt.show()
 ```
 
 
-    
-![png](output_65_0.png)
+
+![png](https://github.com/Blindusername001/Geospatial-Plotting-in-python-with-geopandas/blob/main/Images/output_65_0.png)    
+
     
 
 
